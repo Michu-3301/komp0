@@ -62,7 +62,7 @@
     <div id="nav">
       Komponenty Komputerowe:
       <br><br>
-      <a href="https://michu-3301.github.io/proc1/">- Procesor</a><br><br>
+      <a href="https://michu-3301.github.io/proc2/">- Procesor</a><br><br>
       <a href="Płyta Główna.html">- Płyta Główna</a><br><br>
       <a href="Karta Graficzna.html">- Karta Graficzna</a><br><br>
       <a href="Pamięć Ram.html">- Pamięć Ram</a><br><br>
